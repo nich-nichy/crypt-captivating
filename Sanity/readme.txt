@@ -1,0 +1,1 @@
+This part is used to hold images and information of the essentials.
